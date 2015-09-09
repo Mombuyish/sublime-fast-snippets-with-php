@@ -6,6 +6,7 @@ abstract class ${2} extends ${3}
 {
     ${4}
 }
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>aclass</tabTrigger>
