@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+namespace ${1}
+
+class ${2} extends ${3}
+{
+    ${4}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>class</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
