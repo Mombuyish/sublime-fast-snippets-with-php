@@ -25,7 +25,7 @@ Support `tab` to previous next slug.
 | shortcut  | function                             |
 | --------- |--------------------------------------|
 | class     | build class with namespace           |
-| aclass    | build aclass with namespace          |
+| aclass    | build abstract class with namespace  |
 | _c        | build construct method               |
 | met       | build public method                  |
 | pmet      | build protected method               |
