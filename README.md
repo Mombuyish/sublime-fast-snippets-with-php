@@ -21,6 +21,7 @@ or you can also download `.zip` and put in there.
 
 Here is customize shortcuts in sublime.
 Support `tab` to previous next slug.
+
 | shortcut  | function                             |
 | --------- |--------------------------------------|
 | class     | build class with namespace           |
