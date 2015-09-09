@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-public function ${2}(${3})
+${1:public} function ${2:FunctionName}(${3:\$value} = ${4:''})
 {
-    ${4}
+    ${5}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ${1} extends Model
+class ${1:Post} extends Model
 {
     ${2}
 }

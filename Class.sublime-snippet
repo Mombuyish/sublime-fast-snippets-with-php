@@ -2,9 +2,9 @@
     <content><![CDATA[
 namespace ${1}
 
-class ${2} extends ${3}
+class ${2:ClassName}
 {
-    ${4}
+    ${3}
 }
 
 ]]></content>
