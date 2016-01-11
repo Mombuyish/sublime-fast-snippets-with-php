@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-public function __construct(${1})
+public function __construct(${1:\$PARAMETERS})
 {
     ${2}
 }

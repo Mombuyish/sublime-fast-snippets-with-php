@@ -1,20 +1,11 @@
 <snippet>
     <content><![CDATA[
-namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
-
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
-
-class ${1:PostsController} extends Controller
-{
-    ${2}
+foreach (${1:\$array} as ${2:\$value}) {
+    ${3}
 }
-
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>larac</tabTrigger>
+    <tabTrigger>fore</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>

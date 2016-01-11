@@ -1,12 +1,9 @@
 <snippet>
     <content><![CDATA[
-${1:public} function ${2:FunctionName}(${3:\$value} = ${4:''})
-{
-    ${5}
-}
+throw new ${1};
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>met</tabTrigger>
+    <tabTrigger>thr</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 </snippet>
